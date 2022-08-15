@@ -1,0 +1,72 @@
+:root {
+    --light-cyan: hsl(193, 38%, 86%);
+    --neon-green: hsl(150, 100%, 66%);
+    --grayish-blue: hsl(217, 19%, 38%);
+    --dark-grayish-blue: hsl(217, 19%, 24%);
+    --dark-blue: hsl(218, 23%, 16%);
+}
+
+body {
+    background-color: var(--dark-blue);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.container__central {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: var(--dark-grayish-blue);
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    position: relative; 
+    max-width: 300px;
+}
+
+.container__conteudo {
+   background-image: url(../images/pattern-divider-mobile.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 1rem; 
+}
+
+.container__titulo {
+    text-transform: uppercase;
+    font-size: 0.6rem;
+    color: var(--neon-green);
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+.container__advice {
+    color: var(--light-cyan);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.container__central-botao {
+    background-color: var(--neon-green);
+    background-image: url(../images/icon-dice.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1.5rem;
+    border-radius: 100%;
+    border: none;
+    cursor: pointer;
+    margin: -2rem 0 0 0;
+    z-index: 10;
+    /*position: absolute;
+    top: 62%;*/
+}
+
+.container__central-botao:hover {
+    box-shadow: 0px 0px 10px 1px var(--light-cyan);
+}
+
