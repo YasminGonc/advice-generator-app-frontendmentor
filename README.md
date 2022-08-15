@@ -25,6 +25,7 @@
  </ul>
  <h3>Aprendizado:</h3>
  <ul>
+ <li>Criar projeto a partir de layout fornecido;</li>
  <li>Projeto me permitiu colocar em prática os conceitos de consumo de API.</li>
  </ul>
  <h2> Autor </h2>
