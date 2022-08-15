@@ -12,7 +12,7 @@
  <li>Visualizar trechos de frases motivacionais, geradas aleatoriamente.</li>
  </ul>
  <h3>Site</h3>
- <a href="https://yasmingonc.github.io/pesquisanapratica-landingpage/" target="_blank">Viver de Pesquisa</a>
+ <a href="https://yasmingonc.github.io/advice-generator-app-frontendmentor/" target="_blank">Advice Generator App</a>
  <h3>Vídeo da aplicação</h3>
  
  <h2> Processo </h2>
