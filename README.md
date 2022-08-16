@@ -14,6 +14,7 @@
  <h3>Site</h3>
  <a href="https://yasmingonc.github.io/advice-generator-app-frontendmentor/" target="_blank">Advice Generator App</a>
  <h3>Vídeo da aplicação</h3>
+ https://www.loom.com/share/79209a9ccc504ac3bd86b2618ad5049d
  
  <h2> Processo </h2>
  <h3>Construído com:</h3>
