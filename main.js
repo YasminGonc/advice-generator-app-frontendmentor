@@ -13,6 +13,8 @@ async function advice() {
 }
 
 btn.addEventListener('click', () => {
+    adviceText.innerHTML = `<p class="container__advice">Loading...</p>`;
+    adviceNumber.innerHTML = `<h3 class="container__titulo">Advice</h3>`;
     advice();
 });
 
